@@ -18,7 +18,7 @@ const Features = () => {
       />
 
       <div className="flex flex-col md:flex-row items-center justify-center w-[60%] xl:-mt-10">
-        <img className="max-w-2xl w-[60%] xl:-ml-32" src="/resume-illustration.svg" alt="AI Resume Builder" />
+        <img className="max-w-2xl w-[60%] xl:-ml-32" src="/resume-illustration.svg" alt="AI CraftCV Builder" />
         
         <div
           className="px-4 py-12 md:px-0"

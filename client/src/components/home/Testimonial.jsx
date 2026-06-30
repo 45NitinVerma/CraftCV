@@ -59,7 +59,7 @@ const Testimonial = () => {
 
         <Title
           title="What our users say"
-          description="Hear from professionals and job seekers who built their dream resumes using our AI-powered Resume Builder and Enhancer."
+          description="Hear from professionals and job seekers who built their dream resumes using CraftCV."
         />
       </div>
 

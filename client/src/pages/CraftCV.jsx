@@ -29,7 +29,7 @@ import { useSelector } from "react-redux";
 import api from "../configs/api";
 import toast from "react-hot-toast";
 
-const ResumeBuilder = () => {
+const CraftCV = () => {
 	const { resumeId } = useParams();
 	const { token } = useSelector((state) => state.auth);
 
@@ -384,4 +384,4 @@ const ResumeBuilder = () => {
 	);
 };
 
-export default ResumeBuilder;
+export default CraftCV;

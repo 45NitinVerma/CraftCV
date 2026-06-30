@@ -16,7 +16,7 @@ const Footer = () => {
 					<a href="/">
 						<img
 							src="/logo.svg"
-							alt="Resume Builder Logo"
+							alt="CraftCV Logo"
 							className="h-10 w-auto"
 						/>
 					</a>
@@ -177,7 +177,7 @@ const Footer = () => {
 					</div>
 
 					<p className="mt-3 text-center text-gray-600">
-						© {new Date().getFullYear()} Resume Builder. All rights reserved.
+						© {new Date().getFullYear()} CraftCV. All rights reserved.
 					</p>
 				</div>
 			</footer>
